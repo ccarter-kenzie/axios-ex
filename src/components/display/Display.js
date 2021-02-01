@@ -27,6 +27,7 @@ class Display extends Component{
   render() {
     return (
       <div>
+        ChNGES
         {JSON.stringify(this.state.data)}
       </div>
     )
